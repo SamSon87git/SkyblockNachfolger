@@ -92,8 +92,8 @@ Das Modpack besteht aktuell aus den folgenden Mods:
 - [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
 - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)
 - [JAOPCA](https://www.curseforge.com/minecraft/mc-mods/jaopca)
-- [MoreTweaker] (https://www.curseforge.com/minecraft/mc-mods/moretweaker)
-- [Initial Inventory] (https://www.curseforge.com/minecraft/mc-mods/initial-inventory)
+- [MoreTweaker](https://www.curseforge.com/minecraft/mc-mods/moretweaker)
+- [Initial Inventory](https://www.curseforge.com/minecraft/mc-mods/initial-inventory)
 
 ### Mögliche Mods zum späteren Hinzufügen
 
