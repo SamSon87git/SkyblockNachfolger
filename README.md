@@ -1,30 +1,18 @@
-# Skyblock Nachfolger (working title)
+# CraftBlock
 
-Dieses Repository enthält alle **Override-Dateien** für das "FTB Skyblock"-Nachfolge-Projekt. Das sind vor allem geänderte Konfigurationsdateien und Crafttweaker-Skripte.
+Dieses Repository enthält alle **Override-Dateien** für das "FTB Skyblock"-Nachfolge-Projekt CraftBlock. Das sind vor allem geänderte Konfigurationsdateien und Crafttweaker-Skripte.
 
-Modpack-Progress: 85% [xxxxxxxx- ]
+Direkt zu Curseforge: https://www.curseforge.com/minecraft/modpacks/craftblock
+
+Modpack-Progress: 95% [xxxxxxxxx-]
 Map-Progress: 20% [xx        ]
 
 ## Offene TODOs
 
-- [ ] Refined Storage (Tier 2, Drawer + OC + IE)
-  - [ ] Cable aus OpenComputers Cable
-  - [ ] Raw Processors raus werfen (Binding Dings auch)
-  - [ ] Prozessoren aus Prozessoren + Mana + Catalyst (16/8/4)
-  - [ ] Alle Storage Blöcke entfernen
-  - [ ] Silicon aus Quartz Dust in Mana Pool
-  - [ ] Storage Housing entfernen
-  - [ ] Neue Disk Rezepte aus Disks kappaxd
-  - [ ] Disk Drive und Disc Manipulator (z.B. + Data Cards) basierend auf OC Disk Drive
-  - [ ] Machine Casing aus Mechanical Hardcore + Quartz + x?
-  - [ ] Controller: Extreme Crafting (Tier 2 PC, PC-Teile außer Internet-Card)
-  - [ ] Wireless Grid: Extreme Crafting (Tier 3 PC, PC-Teile inkl. Internet-Card)
-- [ ] Restliche Mods kurz durchgehen / sicherstellen
-- [ ] Custom Advancements
-- [ ] Skyblock Nether
+- [ ] TC, AC, UC World Gen Config ändern
 - [ ] Visit OC Sensors and BedrockCraft
-
-- [ ] Das letzte Geheimnis :)
+- [ ] Custom Advancements
+- [ ] Arbeit an der Map beginnen...
 - [ ] Veröffentlichen!
 
 ## Vorgesehene Progression
